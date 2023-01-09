@@ -1,4 +1,4 @@
-# Document for GitHub
+# Git Notice
 
 * git add . (for add all new file)
 
@@ -8,3 +8,5 @@
 
 
 * It's ALL
+
+# Git anything
